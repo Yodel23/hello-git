@@ -1,0 +1,4 @@
+#esto es un solo archivo **/ y lleva punto delante si es oculto
+**/ignoreArchivo.txt
+#Esto es para que no suba todos los archivos con esa extension.
+# *.txt
