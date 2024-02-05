@@ -1,2 +1,2 @@
 print ("Hello GIT")
-# print ("¿Que tal el curso?")git 
+# print ("¿Que tal el curso?")
